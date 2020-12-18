@@ -1,3 +1,11 @@
-1.clone the code. 
+## Tuya webrtc iOS demo
 
-2.modify the clientId_、secret_、authCode_ and deviceid_ 、localkey .
+点击查看中文版：[中文版](README-zh.md)
+
+## Features Overview
+
+
+## Doc
+
+
+## Latest version
